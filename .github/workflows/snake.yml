@@ -32,3 +32,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l6m4in4g5ywh6savqi35c6jnxa&unique={true|1|on|yes})
