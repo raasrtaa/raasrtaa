@@ -2,6 +2,10 @@
 
 ![Banner](img/github-header-banner.png)
 
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;AI+Enthusiast;Information Technology+Student"/>
+
+---
 ### :link: Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/raasrtaa" target="_blank">
@@ -40,12 +44,29 @@ I'm an **Information Technology student** at the University of North Sumatra �
   <img src="https://streak-stats.demolab.com?user=raasrtaa&theme=dracula" height="150" />
   </div>
 
+###
+>
 
+---
+## 📜 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Skilvul-Algorithm%20%26%20Data%20Structure%20with%20Python-6C4CF1?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20AI-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20Data%20Science-00B894?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Dicoding-Memulai%20Pemrograman%20dengan%20Python-F4A261?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20Structured%20Query%20Language%20(SQL)-E76F51?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ###
  
 
 ---
+
+
 
 ### 🕹️ Contribution Games
 <div align="center">
