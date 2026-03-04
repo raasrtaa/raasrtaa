@@ -3,7 +3,10 @@
 ![Banner](img/github-header-banner.png)
 
 ---
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=7FFFD4&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer;AI+Enthusiast;Information Technology+Student"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer;AI+Enthusiast;Informatics+Undergraduate"/>
+</p>
 
 ---
 ### :link: Connect with Me
@@ -49,16 +52,12 @@ I'm an **Information Technology student** at the University of North Sumatra ðŸŽ
 
 ---
 ## ðŸ“œ Certifications
-<p>
-  <img src="https://img.shields.io/badge/Skilvul-Algorithm%20%26%20Data%20Structure%20with%20Python-6C4CF1?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20AI-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20Data%20Science-00B894?style=for-the-badge&logo=pandas&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Dicoding-Memulai%20Pemrograman%20dengan%20Python-F4A261?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20Structured%20Query%20Language%20(SQL)-E76F51?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Skilvul-Algorithm%20%26%20Data%20Structure%20with%20Python-6C4CF1?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20AI-0A66C2?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20Data%20Science-00B894?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dicoding-Memulai%20Pemrograman%20dengan%20Python-F4A261?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dicoding-Belajar%20Dasar%20SQL-E76F51?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ###
