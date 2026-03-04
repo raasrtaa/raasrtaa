@@ -40,7 +40,9 @@ I'm an **Information Technology student** at the University of North Sumatra ğŸ
   <img src="https://streak-stats.demolab.com?user=raasrtaa&theme=dracula" height="150" />
   </div>
 
- 
+
+
+###
  
 
 ---
@@ -52,9 +54,7 @@ I'm an **Information Technology student** at the University of North Sumatra ğŸ
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raasrtaa/raasrtaa/output/pacman-contribution-graph.svg">
   </picture>
   
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/raasrtaa/raasrtaa/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
@@ -71,4 +71,4 @@ I'm an **Information Technology student** at the University of North Sumatra ğŸ
   <p><i>Current mood: Chill & Coding</i> ğŸ¾</p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0056D2&height=120&section=footer&text=Keep%20Curious&fontSize=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0056D2&height=120&section=footer&text=Keep%20Curious&fontSize=30&fontColor=ffffff" width="100%"/>
